@@ -1,9 +1,0 @@
-Workflow:
-
-Data Ingestion: Acquired and loaded raw physical sensor data from the radar hardware into MATLAB.
-
-Pre-Processing: Applied signal filtering techniques to remove environmental noise and isolate the target frequencies.
-
-Spectral Analysis: Executed Fast Fourier Transforms (FFT) to transition the data into the spectral domain.
-
-Visualization: Generated automated Range-Doppler maps to visually identify the exact distance, velocity, and signal strength of the detected targets.
