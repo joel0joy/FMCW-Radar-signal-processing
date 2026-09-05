@@ -72,6 +72,6 @@ At equal distance, path loss cancels out — so the magnitude differences come e
 
 A bicycle was tracked continuously over 64 radar cycles. The resulting Range-vs-Cycle plot shows the cyclist closing in from ~50 m to ~10 m in a linear (constant-velocity) trend. Minor step artifacts in the curve reflect the radar beam bouncing off different surface areas of the bicycle/cyclist as it moved — not measurement error.
 
-*(Add your actual Range-Doppler Map image and the range-tracking plot here, e.g. `![RD Map](images/rd_map.png)`)*
+![RD Map](images/range.png)
 
 "sample data included; full dataset available on request"
