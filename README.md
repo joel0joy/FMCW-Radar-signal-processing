@@ -9,6 +9,11 @@ This project explores how a Frequency Modulated Continuous Wave (FMCW) radar mea
 
 Rather than a pulse radar sending short energy bursts, an FMCW radar transmits a continuously frequency-modulated "chirp." The distance and velocity of a target are recovered by comparing the transmitted chirp against its delayed, reflected echo.
 
+
+![RD Map](images/Setup.jpeg)
+![RD Map](images/setup-23.jpeg)
+
+
 ## How It Works
 
 **Measuring range:** The frequency of the chirp increases linearly over time. When it reflects off a target and returns, mixing the transmitted and received signals produces a beat frequency (intermediate frequency, f_IF) that is directly proportional to target distance.
